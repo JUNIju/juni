@@ -5,8 +5,9 @@
 
 <script src="https://www.gstatic.com/dialogflow-console/fast/messenger/bootstrap.js?v=1"></script>
 <df-messenger
-  chat-title="임호고챗봇"
-  agent-id="d8944d38-e85c-4495-a8c2-684079b8c4be"
+  intent="WELCOME"
+  chat-title="hojun"
+  agent-id="d1a6b941-160b-46a1-876f-8ab7a0ba9a2a"
   language-code="ko"
 ></df-messenger>
 
